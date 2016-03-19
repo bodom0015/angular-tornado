@@ -1,0 +1,10 @@
+{
+  "name": "docker_ng_app",
+  "version": "1.0.0",
+  "description": "AngularJS on Node.js on Docker",
+  "author": "Mike Lambert <lambert8@illinois.edu>",
+  "main": "server.js",
+  "dependencies": {
+    "express":"^4.13.3"    
+  }
+}
